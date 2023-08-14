@@ -57,7 +57,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ```sh
   cd my-folder
-  git clone
+  git clone https://github.com/Othniel2471/vet-clinic-database.git
 ```
 
 ### Prerequisites
